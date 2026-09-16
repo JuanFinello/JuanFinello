@@ -1,8 +1,8 @@
 # Juan Finello
 
-Data analyst with a biology background · [GISAID Initiative](https://gisaid.org) · Córdoba, Argentina (remote)
+Biologist turned data analyst. I build data pipelines and tooling for curating and analysing pathogen genomic data.
 
-I turn genomic data and scientific literature into decision-ready analytics: ETL pipelines, SQL data models, LLM-assisted tooling and BI dashboards. Python, SQL, Bash and Claude Code daily.
+5 years at the [GISAID Initiative](https://gisaid.org) · Córdoba, Argentina (remote)
 
 `Python` `SQL` `Bash` `R` `pandas` `SQLite / PostgreSQL` `Nextflow` `Docker` `Metabase` `scikit-learn` `Bioconductor`
 
