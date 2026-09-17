@@ -1,8 +1,5 @@
 # Juan Finello
 
-Biologist turned data analyst. I build data pipelines and tooling for curating and analysing pathogen genomic data.
-
-5 years at the [GISAID Initiative](https://gisaid.org) · Córdoba, Argentina (remote)
 
 `Python` `SQL` `Bash` `R` `pandas` `SQLite / PostgreSQL` `Nextflow` `Docker` `Metabase` `scikit-learn` `Bioconductor`
 
